@@ -1,0 +1,9 @@
+# Ignorar librerías pesadas
+node_modules/
+
+# Ignorar datos reales de la base de datos (Persistencia local)
+postgres_data/
+
+# Ignorar archivos de configuración personal
+.env
+.DS_Store
